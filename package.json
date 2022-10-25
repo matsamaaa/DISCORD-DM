@@ -1,0 +1,15 @@
+{
+  "name": "DISCORD-DM",
+  "version": "2.0.0",
+  "description": "Discord Bot to send message at all users in your guild",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "mat_sama",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3"
+  }
+}
